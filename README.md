@@ -1,6 +1,6 @@
 # Jordan Ulmer BSc(Hons)
 
-julmer526@gmail.com     |       07494764207
+julmer526@gmail.com     |       Please contact me for mobile number
 
 [github.com/BreadleyCooper](Github)
 
