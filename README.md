@@ -12,8 +12,8 @@ Freelance web developer with a 10-year background as a Senior Healthcare Scienti
 
 **<span style="text-decoration:underline;">Project Experience</span>**
 
-**ToDo App (*WIP*)-** [https://breadleycooper.github.io/todolist/](https://breadleycooper.github.io/todolist/)  \
-(repo: [BreadleyCooper/todolist (github.com)](https://github.com/BreadleyCooper/todolist))
+**ToDo App (*WIP*)-** [https://breadleycooper.github.io/todolist/](https://breadleycooper.github.io/todolistbackup/)  \
+(repo: [BreadleyCooper/todolistbackup (github.com)](https://github.com/BreadleyCooper/todolist/backup))
 
 **HTML, CSS, JS - an app to create ToDos and filter them by priority, due date and project**
 
